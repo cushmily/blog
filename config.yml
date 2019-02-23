@@ -1,0 +1,30 @@
+# site title
+title: 伍思远的小站
+
+# user name or organization name
+user: cushmily
+
+# issue repository
+repository: blog
+
+# multi-author
+authors:
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 14288c4c9e881feaea665917eb7e479a1f21161d
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
